@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <desktop-pc id="DPC-013678"
+                name="Desktop PC DPC-4100"
+                price="58780"
+                processor="Intel Core i5 1.7GHz quad-core"
+                memory="4GB"
+                storage="1TB"
+                stock="25"
+    />
+    <desktop-pc id="DPC-024812"
+                name="Desktop PC DPC-4400"
+                price="79800"
+                processor="Intel Core i7 2.2GHz quad-core"
+                memory="6GB"
+                storage="2TB"
+                stock="25"
+    />
+    <laptop-pc  id="LPC-013502"
+                name="Laptop PC LPC-1100"
+                price="48700"
+                processor="Intel Core i3 1.6GHz dual-core"
+                memory="4GB"
+                storage="500GB"
+                display="13-inch"
+                battery="6-cell Iithium Ion"
+                stock="25"
+    />
+    <laptop-pc  id="LPC-013503"
+                name="Laptop PC DPC-1200"
+                price="68800"
+                processor="Intel Core i5 2.0GHz dual-core"
+                memory="4GB"
+                storage="1TB"
+                display="15-inch"
+                battery="6-cell Iithium Ion"
+                stock="25"
+    />
+    <printer   id="PRN-003895"
+               name="Leser Printer"
+               price="28900"
+               resolution="4800dpi"
+               stock="25"
+    />
+</products>
