@@ -1,7 +1,7 @@
 package Controller;
 
-import DataStructure.Product;
-import Module.ProductManager;
+import Model.Product;
+import Model.ProductManager;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

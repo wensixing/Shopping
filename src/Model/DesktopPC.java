@@ -1,4 +1,4 @@
-package DataStructure;
+package Model;
 
 /**
  * Created by sixing.wen on 11/8/16.

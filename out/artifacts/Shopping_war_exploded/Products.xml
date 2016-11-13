@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><products>
     <desktop-pc id="DPC-013678" memory="4GB" name="Desktop PC DPC-4100" price="58780" processor="Intel Core i5 1.7GHz quad-core" stock="30" storage="1TB"/>
-    <desktop-pc id="DPC-024812" memory="6GB" name="Desktop PC DPC-4400" price="79800" processor="Intel Core i7 2.2GHz quad-core" stock="30" storage="2TB"/>
-    <laptop-pc battery="6-cell Iithium Ion" display="13-inch" id="LPC-013502" memory="4GB" name="Laptop PC LPC-1100" price="48700" processor="Intel Core i3 1.6GHz dual-core" stock="30" storage="500GB"/>
-    <laptop-pc battery="6-cell Iithium Ion" display="15-inch" id="LPC-013503" memory="4GB" name="Laptop PC DPC-1200" price="68800" processor="Intel Core i5 2.0GHz dual-core" stock="30" storage="1TB"/>
+    <desktop-pc id="DPC-024812" memory="6GB" name="Desktop PC DPC-4400" price="79800" processor="Intel Core i7 2.2GHz quad-core" stock="29" storage="2TB"/>
+    <laptop-pc battery="6-cell Iithium Ion" display="13-inch" id="LPC-013502" memory="4GB" name="Laptop PC LPC-1100" price="48700" processor="Intel Core i3 1.6GHz dual-core" stock="29" storage="500GB"/>
+    <laptop-pc battery="6-cell Iithium Ion" display="15-inch" id="LPC-013503" memory="4GB" name="Laptop PC DPC-1200" price="68800" processor="Intel Core i5 2.0GHz dual-core" stock="29" storage="1TB"/>
     <printer id="PRN-003895" name="Leser Printer" price="28900" resolution="4800dpi" stock="30"/>
 </products>

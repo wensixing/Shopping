@@ -1,7 +1,6 @@
 package Controller;
 
-import DataStructure.Product;
-import Module.ProductManager;
+import Model.ProductManager;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -11,7 +10,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**
