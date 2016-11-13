@@ -33,7 +33,6 @@ public class CheckoutServlet extends HttpServlet {
             out.close();
         } else {
             response.sendError(HttpServletResponse.SC_BAD_REQUEST);
-
         }
     }
 
